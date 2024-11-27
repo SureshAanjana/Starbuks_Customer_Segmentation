@@ -2,6 +2,7 @@
 Customer segmentation for Starbucks reward program members on the basis of their reactions to offers, to further assist marketing team design marketing strategies accordingly
 
 **ML Techniques used :** K-Means, PCA, t-SNE, Gaussian Mixture Models, Silhouette plot, SSE/Inertia, Cluster Analysis
+
 **Project Domains :** Market Segmentation, Marketing, Data Science, Cluster Analysis
 
 **Q Why segment customers ???**
