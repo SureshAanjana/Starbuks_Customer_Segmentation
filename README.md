@@ -29,4 +29,16 @@ Ans - Well, because it is still a very difficult and computationally intensive t
 
 # My findings
 
++ One cluster resembled people who were probably young office going people who were our regular customers, this is the customer segment which provides us the most monetary value currently. They react well to all offers, since they are regulars they already know the ins-and-outs of our schemes and hence use offers regularly. In my opinion, we can leave them as it is going, or even reduce the number of offers given to them slightly as long as they don't seem to be running away from us.
+  
++ Another cluster had a lot of Rich, older members of reward program who usually react to discounts but not to BOGO's (Buy One Get One). A clear indication is that they like to drink coffee alone, and we can give them more discount offers than anything which requires them to buy more than one food item, and specifically not give them a BOGO offer.
+  
++ Another customer segment was behaving in such a way that they only come to Starbucks when there is an offer (Us bhai us) , and their non-offer period spending is very low. I feel that by giving them small but regular offers on weekends, we can convert them to regular customers.
+  
++ Another cluster resembled lower-income groups which did not seemed to be tempted by any type of offers. Either starbucks can introduce lower cost drinks to target these, or it can maintain its brand image and ignore these customers. Since India is a price sensitive market, to thrive in such a market it wouldn't hurt much to introduce a few "Mid-Priced" meals targetting middle class customers, and then slowly introducing combo-meals where we can sell a mid-priced and high priced item together in the name of discount.
+
++ One cluster had people who are moderate customers, with an okayish amount of spend, and I feel it is best to leave them as it is, and give them offers only when their frequency seems to have decreased.
+
++ The last cluster had no appreciable features, some of them were "ghosts" who had come only once or twice, and had very irregular patterns. Which , is a gentle remainder that all things which make sense mathematically do not have to make business sense .
+
 
